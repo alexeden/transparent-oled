@@ -1,0 +1,9 @@
+[submodule "lib/HyperDisplay_SSD1309_ArduinoLibrary"]
+	path = lib/HyperDisplay_SSD1309_ArduinoLibrary
+	url = https://github.com/sparkfun/HyperDisplay_SSD1309_ArduinoLibrary
+[submodule "lib/HyperDisplay_UG2856KLBAG01_ArduinoLibrary"]
+	path = lib/HyperDisplay_UG2856KLBAG01_ArduinoLibrary
+	url = https://github.com/sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary
+[submodule "lib/SparkFun_HyperDisplay"]
+	path = lib/SparkFun_HyperDisplay
+	url = https://github.com/sparkfun/SparkFun_HyperDisplay
