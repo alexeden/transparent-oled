@@ -19,7 +19,6 @@ SSD1309_Bite_t wind_mem[W * H];
 void setup() {
 	Serial.begin(115200);
 	Serial << "Ready" << endl;
-
 	SPI.begin(SCK, MISO, MOSI, SS);
 	oled.begin(CS, DC, SPI);
 }

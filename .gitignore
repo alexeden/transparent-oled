@@ -2,3 +2,4 @@
 .pioenvs/*
 .vscode/ipch
 .vscode/.browse.*
+.pio
